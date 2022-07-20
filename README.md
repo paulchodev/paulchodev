@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Paul Cho</h1>
-<h3 align="center">A passionate frontend developer from Los Angeles</h3>
+<h3 align="center">A passionate software engineer from Los Angeles</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 - 🔭 I’m currently working on [Counting Stars](https://countingstars.netlify.app/)
